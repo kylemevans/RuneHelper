@@ -17,3 +17,6 @@ RuneHelper also provides useful information about the collective RuneScape econo
 
 **Example usage:** Below is a screenshot of RuneHelper viewing the averaged price of all the in-game weapons over time. We can see that the average weapon price increased quite drastically in December of 2012, a result of a massive update released for RuneScape in November of 2012 that overhauled the game's combat. Economically-wise players can use this information to their advantage; if RuneScape announces a future update to their combat system, one could stand to make quite a profit by stocking up on weapons before the update.
 
+## About
+
+RuneHelper was developed by Kyle Evans in 2016. Historical market data on the Grand Exchange was downloaded from [this GitHub repository](https://github.com/Nixonite/Runescape-Grand-Exchange-Market-Data), then cleaned up to best fit the needs of the projects.
